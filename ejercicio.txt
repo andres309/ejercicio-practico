@@ -1,1 +1,5 @@
 resolviendo el ejercicio pospuesto por chap-gpt
+numero_uno =30
+numero_dos =90
+suma = numero_uno + numero_dos
+resta = numero_dos - numero_uno
